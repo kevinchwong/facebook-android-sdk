@@ -16,10 +16,11 @@
 
 package com.facebook;
 
-import com.facebook.sdk.tests.R;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+
+import com.facebook.sdk.tests.R;
 
 public class FacebookRequestErrorTests extends FacebookTestCase {
     public static final String ERROR_SINGLE_RESPONSE =

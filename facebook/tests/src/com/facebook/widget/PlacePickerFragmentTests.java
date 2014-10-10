@@ -26,6 +26,7 @@ import android.widget.ListView;
 import com.facebook.*;
 import com.facebook.sdk.tests.R;
 
+
 import java.util.Collection;
 
 public class PlacePickerFragmentTests extends FragmentTestCase<PlacePickerFragmentTests.TestActivity> {
